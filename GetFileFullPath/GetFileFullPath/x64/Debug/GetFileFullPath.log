@@ -1,0 +1,8 @@
+﻿  GetFileFullPath.cpp
+g:\c\getfilefullpath\getfilefullpath\getfilefullpath.cpp(83): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(204): note: 参见“wcsncpy”的声明
+g:\c\getfilefullpath\getfilefullpath\getfilefullpath.cpp(30): warning C4101: “commandLine”: 未引用的局部变量
+g:\c\getfilefullpath\getfilefullpath\getfilefullpath.cpp(31): warning C4101: “commandLineContents”: 未引用的局部变量
+g:\c\getfilefullpath\getfilefullpath\getfilefullpath.cpp(33): warning C4101: “rtlUserProcParamsAddress”: 未引用的局部变量
+  GetFileFullPath.vcxproj -> G:\c\GetFileFullPath\x64\Debug\GetFileFullPath.exe
+  GetFileFullPath.vcxproj -> G:\c\GetFileFullPath\x64\Debug\GetFileFullPath.pdb (Full PDB)

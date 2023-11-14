@@ -30,6 +30,6 @@
 *.exe
 *.out
 *.app
-
-/.vs/
-/x64/
+*.pdb
+.vs/
+x64/

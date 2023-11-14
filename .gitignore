@@ -33,3 +33,4 @@
 *.pdb
 .vs/
 x64/
+Debug/

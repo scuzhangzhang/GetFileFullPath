@@ -1,6 +1,0 @@
-﻿  GetFileFullPath1.cpp
-g:\c\getfilefullpath\getfilefullpath1\getfilefullpath1.cpp(65): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
-  g:\c\getfilefullpath\getfilefullpath1\getfilefullpath1.cpp(65): note: 默认构造函数或 copy/move 赋值运算符将忽略此成员
-g:\c\getfilefullpath\getfilefullpath1\getfilefullpath1.cpp(277): warning C4101: “status”: 未引用的局部变量
-  GetFileFullPath1.vcxproj -> G:\c\GetFileFullPath\x64\Debug\GetFileFullPath1.exe
-  GetFileFullPath1.vcxproj -> G:\c\GetFileFullPath\x64\Debug\GetFileFullPath1.pdb (Full PDB)
